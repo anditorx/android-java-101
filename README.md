@@ -12,12 +12,6 @@ This repository contains the basic android application that I made using Java. T
 2. Open the project using Android Studio
 3. Run the application
 
-## License
-
-```
-MIT License
-```
-
 ## Author
 
 - [@anditorx](https://www.github.com/anditorx)
