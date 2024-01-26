@@ -6,6 +6,7 @@ This repository contains the basic android application that I made using Java. T
 
 - [x] [Floating Action Button](https://github.com/anditorx/android-java-101/tree/main/01-FloatingActionButton#floating-action-button)
 - [x] [Splash Screen](https://github.com/anditorx/android-java-101/tree/main/Splashscreen)
+- [x] [Listview](https://github.com/anditorx/android-java-101/tree/main/listview)
 
 ## How to use
 
